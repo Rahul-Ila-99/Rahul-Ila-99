@@ -1,11 +1,3 @@
-🎮 Welcome Header (Gaming-Themed)
-🚀 About (Epic Description with Animations)
-📂 Data Engineering Skills (Awesome Icons)
-💾 Tech Stack (Cool Badges)
-📈 GitHub Stats (Customized)
-📜 Recent Projects (Showcased in a UI-like format)
-🔗 Connect (Interactive Buttons)
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&color=32CD32&center=true&vCenter=true&width=600&height=60&lines=🚀+Welcome+to+the+Ultimate+Data+Engineering+Profile!;💾+Building+Pipelines+Like+A+Boss!;🎮+PS5+Gamer+When+Not+Coding!" />
 </div>
