@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&color=32CD32&center=true&vCenter=true&width=600&height=60&lines=🚀+Welcome+to+my+Data+Engineering+Profile!;💾+Building+Pipelines+Like+A+Boss!;🎮+PS5+Gamer+When+Not+Coding!" />
 </div>
 
-## 👋 Yo! I'm [Your Friend's Name]
+## 👋 Yo! I'm Rahul Ila
 - 🔥 A **Data Engineer** who treats data pipelines like **video game levels** 🚀  
 - 🎮 PS5 Addict | Loves **AAA Story-Driven Games** | Sometimes Hacking AI Bots 😆  
 - 💡 Passionate about **Big Data, Cloud Engineering, and Database Architecture**  
