@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&color=32CD32&center=true&vCenter=true&width=600&height=60&lines=🚀+Welcome+to+my+Data+Engineering+Profile!;💾+Building+Pipelines+Like+A+Boss!;🎮+PS5+Gamer+When+Not+Coding!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&color=32CD32&center=true&vCenter=true&width=600&height=60&lines=🚀+Welcome+to+my+Data+Engineering+Profile!;💾+Building+Pipelines+Like+A+Boss!; Gamer+When+Not+Coding!" />
 </div>
 
 ## 👋 Yo! I'm Rahul Ila
