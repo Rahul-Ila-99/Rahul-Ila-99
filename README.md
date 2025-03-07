@@ -4,7 +4,7 @@
 
 ## 👋 Yo! I'm Rahul Ila
 - 🔥 A **Data Engineer** who treats data pipelines like **video game levels** 🚀  
-- 🎮 PS5 Addict | Loves **AAA Story-Driven Games** | Sometimes Hacking AI Bots 😆  
+- 🎮 Gaming Addict | Loves **AAA Story-Driven Games** | Sometimes Hacking AI Bots 😆  
 - 💡 Passionate about **Big Data, Cloud Engineering, and Database Architecture**  
 - 🎨 Designs crazy **front-end animations** for fun, because why not?  
 - 🌎 Making data **clean, scalable, and ultra-efficient!**
@@ -41,6 +41,6 @@
 🔹 Technologies: SQL, dbt, Airflow, AWS RDS  
 
 ## 🎮 My Gaming Universe
-- 🎮 Playing: **Elden Ring, Cyberpunk 2077, Ghost of Tsushima**
+- 🎮 Playing: **AAA games and co-op**
 - 🔥 Favorite Genre: **Action RPG & Open-World Games**
 - 🎧 Vibe While Coding: **Synthwave, Cyberpunk Music**
